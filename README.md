@@ -1,4 +1,3 @@
 # skuska
 
-Just Testing Jouuuuu
-Jouuuu Second Time
+This One Is Loggin Dewelopment Branch
