@@ -1,1 +1,3 @@
-console.log('servering')
+function login() {
+    return true;
+}
