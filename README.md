@@ -1,3 +1,3 @@
 # skuska
 
-This One Is Loggin Dewelopment Branch
+This One Is Loggin Development Branch
