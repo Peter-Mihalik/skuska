@@ -1,5 +1,5 @@
 function register() {
     if (registered()) {
-        //Register
+        return true
     }
 }
